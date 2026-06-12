@@ -24,6 +24,7 @@
 (1) export MINERU_MODEL_SOURCE=local      
 
 (2) mineru-api --host 0.0.0.0 --port 8515
+
 更多启动方式介绍: https://opendatalab.github.io/MinerU/usage/quick_usage/#quick-usage-via-command-line
 
 3.Embedding向量模型:text2vec-base-chinese
