@@ -1,0 +1,2 @@
+# knowledge_base
+基于embedding向量和大模型构建知识库
