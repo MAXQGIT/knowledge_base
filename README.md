@@ -9,6 +9,8 @@
 
 ![技术架构流程图](https://github.com/MAXQGIT/knowledge_base/blob/master/knowledge_base/%E5%9F%BA%E4%BA%8E%E5%90%91%E9%87%8F%E6%99%BA%E8%83%BD%E4%BD%93%E6%8A%80%E6%9C%AF%E6%B5%81%E7%A8%8B.png)
 
+<img src="https://github.com/MAXQGIT/knowledge_base/blob/master/knowledge_base/%E5%9F%BA%E4%BA%8E%E5%90%91%E9%87%8F%E6%99%BA%E8%83%BD%E4%BD%93%E6%8A%80%E6%9C%AF%E6%B5%81%E7%A8%8B.png" width="500" alt="图片描述">
+
 ## 使用到的模型
 
 1.自然语言大模型:Qwen/Qwen3.5-35B-A3B
