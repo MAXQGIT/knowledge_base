@@ -15,7 +15,7 @@ from text2vec import SentenceModel
 import hnswlib
 import numpy as np
 import json
-import glob9
+import glob
 import os
 import chardet
 import logging
