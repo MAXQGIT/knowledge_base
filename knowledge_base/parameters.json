@@ -1,0 +1,17 @@
+{
+  "model": "text2vec-base-chinese",
+  "model_dim": 768,
+  "data_path": "data",
+  "topk": "5",
+  "semantic_weight": "0.4",
+  "threshold": "0.2",
+  "keyword_weight": "0.4",
+  "exact_match_weight": "0.2",
+  "model_document": "model_document",
+  "data_json": "documents.json",
+  "hnsw_index": "hnsw_index.bin",
+  "create_faiss_log": "create_faiss_log.log",
+  "md_path": "result",
+  "pdf_path": "o_data",
+  "spilt_line_count": 22
+}
